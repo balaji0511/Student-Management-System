@@ -1,8 +1,6 @@
 # Student-Management-System
 
-
 Hii There!!
-
 This is java Based Student Management System Project
 
 Here we can perform the CRUD(Create,Read,Update,Delete) operations on the students data
@@ -21,7 +19,7 @@ IDE : Intellij Idea
 Database : MY SQL 
 
 1. Open the project source code in the IDE
-2. Open the java file inside source folder   ----->  rsc/model/Database.java
+2. Open the java file inside source folder   ----->  src/model/Database.java
 3. In the Database.java file modify the database connectivity code based on your mysql databse
 4. save all the files
 5. open the java file inside source folder   ----->  src/controller/StudentCOntroller.java
